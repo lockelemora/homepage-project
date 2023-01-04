@@ -2,8 +2,8 @@ body {
     margin: 0;
     text-align: center;
     display: flex;
-    flex-direction: column
-    
+    flex-direction: column;
+    background-color: pink;
 }
 
 #hero {
@@ -65,4 +65,9 @@ body {
     display: flex;
     justify-content: space-around
     
+}
+
+#guide {
+    background-color: black;
+    margin-bottom: 0px;
 }
